@@ -32,6 +32,11 @@ p {
 	font-size: 1.2em;
 }
 
+/* Added this to override bootstrap default. Wanted blockquotes smaller */
+blockquote {
+    font-size: 14px;
+}
+
 
 
 /* BLOG CONTENT */
